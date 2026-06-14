@@ -1,6 +1,6 @@
 # OIBSIP
 Oasis Infobyte Internship Projects 
-## Task 3 - ATM Interface
+## HimanshiSaini_Task3
 
 ### Objective
 To simulate basic ATM operartions using Java.
